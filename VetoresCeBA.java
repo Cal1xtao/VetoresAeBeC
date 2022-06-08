@@ -34,7 +34,7 @@ public class VetoresCeBA {
 		//exibindo numeros menores ou iguais a 5
 		System.out.printf("Os numeros do vetor b menores ou iguais a 5 sao: %d\n", b[x]);
 		//dando valor a c, com uma formula com os vetores a e b
-		c=a[x]*b[x];}
+		c=a[x]*b[x]+c;}
 		//exibindo valor de c
 		System.out.printf("O valor de c e: %d", c);
 		
